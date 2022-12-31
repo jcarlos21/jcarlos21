@@ -44,7 +44,10 @@
   <a href="https://github.com/jcarlos21/jcarlos21/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@carlosowen751" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
+  ![github contribution grid snake animation](https://github.com/jcarlos21/jcarlos21/blob/output/github-contribution-grid-snake.svg)
   ![Snake animation](https://github.com/jcarlos21/jcarlos21/blob/output/github-contribution-grid-snake.svg)
+  
+  github contribution grid snake animation]
 
 </div>
   
