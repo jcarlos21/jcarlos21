@@ -30,8 +30,8 @@
 
 <div>
   
-  <a href="https://github.com/jcarlos21"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcarlos21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlos21&layout=compact&langs_count=7&theme=vue"/>
+  <a href="https://github.com/jcarlos21"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcarlos21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlos21&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br>
@@ -44,10 +44,7 @@
   <a href="https://github.com/jcarlos21/jcarlos21/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@carlosowen751" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-  ![github contribution grid snake animation](https://github.com/jcarlos21/jcarlos21/blob/output/github-contribution-grid-snake.svg)
   ![Snake animation](https://github.com/jcarlos21/jcarlos21/blob/output/github-contribution-grid-snake.svg)
-  
-  github contribution grid snake animation]
 
 </div>
   
