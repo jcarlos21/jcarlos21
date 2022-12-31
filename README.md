@@ -5,7 +5,7 @@
 - :satellite: Estudo Engenharia de Telecomunicações na UFRN
 - 🌱 Estou aprendendo desenvolvimento web com python e inglês
 - 📫 Vocẽ chega até mim por meio do e-mail: j.carlos2020@live.com
-- :blue_heart: Adoro música clássica e ler sobre física, astronomia
+- :blue_heart: Adoro música clássica e ler sobre física, astronomia e conhecimentos gerais
 
 #### Tecnologias usadas nos repositórios
 
